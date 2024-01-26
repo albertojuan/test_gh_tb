@@ -23,4 +23,3 @@ VERSION=0.0.1-1
 # OBFUSCATE_REGEX_PATTERN="https://(www\.)?[^/]+||^Follow these instructions =>"
 # OBFUSCATE_PATTERN_SEPARATOR=||
 ##########
-<<<>>>
